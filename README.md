@@ -1,2 +1,2 @@
-# Lab-1-
-Lab[1][Java]
+# JavaLab[1]
+Start work with Java
